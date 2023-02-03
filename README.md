@@ -5,4 +5,4 @@
 
 😈 I’m not using GitHub I'm developing someting better using Ruby on Rails
 
-👽 Languages and technologies: HolyC, Malbolge, INTERCAL, Brainfuck, COW, Whitespace and binary
+👽 Languages and technologies: HolyC, Malbolge, INTERCAL, Brainfuck, COW, Whitespace and binary enjoyer
